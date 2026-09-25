@@ -1,1 +1,3 @@
 this is the file 2.,
+added few lines to show fetch git cmd
+to run it write git fetch to see info only
